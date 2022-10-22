@@ -4,7 +4,10 @@ let krtu = `Kartu Intro`
 m.reply(`
 0ཻུ۪۪ꦽꦼ̷⸙‹•══════════════♡᭄
 │       *「 Kartu Intro 」*
-│Nama lengkap:
+mohon di isi🙏
+
+
+Nama lengkap:
 
 Nama panggilan:
 
@@ -234,9 +237,9 @@ Temen rumah:
 
 ukuran bh:
 
-nama HP:
+nama cwe yang kamu incar sekarang:
 
-nomor sempak:
+
 ╰═════ꪶ ཻུ۪۪ꦽꦼ̷⸙ ━ ━ ━ ━ ꪶ ཻུ۪۪ꦽꦼ̷⸙
 `.trim()) // Tambah sendiri kalo mau
 }
